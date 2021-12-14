@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Djimdou
 - 👀 I’m interested in Statistics
-- 🌱 I’m currently finishing a PhD in Statistics
+- 🌱 I hold a PhD in Statistics from Concordia University (2021)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: magloire.loudeguidjimdou@mail.concordia.ca
 
